@@ -1,0 +1,30 @@
+{
+  "name": "clash-of-clans-free-gems-generator",
+  "version": "1.0.0",
+  "description": "20 sec ago - Clash of Clans Hack and cheats - Free Gems (Working 100%). Get Unlimited Free Gems. Unlimited gold. Unlimited elixir. Cheat tool free download. Clash of Clans Hack and Cheats.▼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgrf/clash-of-clans-free-gems-generator.git"
+  },
+  "keywords": [
+    "glash",
+    "of",
+    "clans",
+    "free",
+    "gems",
+    "gems",
+    "generator",
+    "coc",
+    "hack"
+  ],
+  "author": "clash of clans free gems generator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgrf/clash-of-clans-free-gems-generator/issues"
+  },
+  "homepage": "https://github.com/bgrf/clash-of-clans-free-gems-generator#readme"
+}
